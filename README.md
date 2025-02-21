@@ -1,4 +1,4 @@
-# Olá! Me chamo Ian Vieira e seja bem vindo ao meu perfil! 👋 #
+# Olá, tudo certo? Sou Ian Vieira e seja bem vindo ao meu perfil! 🛡 #
 
 ## Frontend Developer ##
 
@@ -8,7 +8,7 @@
 
 ##
 
-### ◽ ESTATÍSTICAS
+### 📊 ESTATÍSTICAS
 
 <div align="center">
 <a href="https://github.com/Ianvi1">
@@ -16,7 +16,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianvi1&theme=neon&layout=compact"/>
 </div>
 
-### ◽ TECNOLOGIAS 
+### ☕ LINGUAGENS E TECNOLOGIAS 
 
 <div>
   <img align="center" alt="Ian-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
