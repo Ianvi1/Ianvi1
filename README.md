@@ -10,10 +10,10 @@
 
 ### 📊 ESTATÍSTICAS
 
-<div align="center">
+<div>
 <a href="https://github.com/Ianvi1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ianvi1&show_icons=true&theme=neon"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianvi1&theme=neon&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ianvi1&show_icons=true&theme=neon"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianvi1&theme=neon&layout=compact"/>
 </div>
 
 ### ☕ LINGUAGENS E TECNOLOGIAS 
@@ -35,7 +35,7 @@
 
 ##
 
-<div align="center"> 
+<div> 
   <a href="https://www.youtube.com/@Ianvi_" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ianvii_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/ianvi_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
