@@ -6,9 +6,10 @@
 - 📫 Contato: ianvicontato@gmail.com
 - 😄 Pronouns: Ele/Dele
 
+##
+
 ### ◽ ESTATÍSTICAS
 
-##
 <div align="center">
 <a href="https://github.com/Ianvi1">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Ianvi1&show_icons=true&theme=neon"/>
@@ -17,7 +18,7 @@
 
 ### ◽ TECNOLOGIAS 
 
-<div align="center">
+<div>
   <img align="center" alt="Ian-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Ian-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
   <img align="center" alt="Ian-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
